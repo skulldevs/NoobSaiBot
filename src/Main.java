@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Enter first number : ");
         num1 = sc.nextInt();
 
+        sc.next();
         System.out.println("Enter operator : +, -, /, * ");
         ope = sc.nextLine();
 
